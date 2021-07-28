@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606496883 source:c:\users\naimul hp spectre\cpp_projects\getset\main.cpp
+	<iostream>
+	<limits>
+	<cmath>
+
